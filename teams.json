@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Alieksieiev Vladyslav",
+        "img": "",
+        "status": "Team-Lead",
+        "sociallinkedin": "",
+        "socialfacebook": "",
+        "socialgithub": ""
+    },
+    {
+        "name": "Averkin Maksym",
+        "img":"",
+        "status": "Scrum master",
+        "sociallinkedin": "https://www.linkedin.com/in/maksym-averkin/",
+        "socialfacebook": "",
+        "socialgithub": "https://github.com/Maxoverking"
+    },
+    {
+        "name": "Podolianko Aleksandr",
+        "img":"",
+        "status": "Developer",
+        "sociallinkedin": "",
+        "socialfacebook": "",
+        "socialgithub": "https://github.com/BlackyHat"
+    },
+    {
+        "name": "Yurov Igor",
+        "img":"",
+        "status": "Developer",
+        "sociallinkedin": "",
+        "socialfacebook": "",
+        "socialgithub": ""
+    },
+    {
+        "name": "Ivan",
+        "img":"",
+        "status": "Developer",
+        "sociallinkedin": "",
+        "socialfacebook": "",
+        "socialgithub": ""
+    },{
+        "name": "Pysarenko Tetiana",
+        "img":"",
+        "status": "Developer",
+        "sociallinkedin": "https://www.linkedin.com/in/tetiana-pysarenko/",
+        "socialfacebook": "",
+        "socialgithub": "https://github.com/TetianaVielkova"
+    },
+    {
+        "name": "Vyshnevska Maryna",
+        "imgSrc":"",
+        "status": "Developer",
+        "sociallinkedin": "https://www.linkedin.com/in/maryna-vyshnevska/",
+        "socialfacebook": "",
+        "socialgithub": "https://github.com/MarynaVyshnevska"
+    },
+    {
+        "name": "Lipchanskyi Pavlo",
+        "img":"",
+        "status": "Developer",
+        "sociallinkedin": "https://www.linkedin.com/in/pavel-lypchanskiy",
+        "socialfacebook": "https://www.facebook.com/liprabochii",
+        "socialgithub": "https://github.com/Pablo-Lipchanskyi"
+    },
+     {
+        "name": "Lyakh Nikolay",
+        "img":"",
+        "status": "Developer",
+        "sociallinkedin": "https://www.linkedin.com/in/mykola-lyakh-77bab3265/",
+        "socialfacebook": "https://www.facebook.com/profile.php?id=100010982268272",
+        "socialgithub": "https://github.com/Nikolaylyah"
+    },
+     {
+        "name": "Litvin Serhii",
+        "img":"",
+        "status": "Developer",
+        "sociallinkedin": "",
+        "socialfacebook": "",
+        "socialgithub": "https://github.com/Serhii0406"
+    },
+     {
+        "name": "Nikolin Dmytro",
+        "img":"",
+        "status": "Developer",
+        "sociallinkedin": "https://www.linkedin.com/in/dmitriy-nikolin/",
+        "socialfacebook": "",
+        "socialgithub": ""
+    }
+
+]
